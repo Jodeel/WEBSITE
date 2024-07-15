@@ -22,7 +22,7 @@
 
 <div class="navbar">
 <div class="logo">
-            <img src="Img\Infinity.jfif" alt="Infinity">
+            <img src="Resources/css/Pics/infinity.gif" alt="Infinity">
         </div>
     <div class="icon">
        <p> Infinity Cartoons</p><i class="fas fa-grin-squint-tears"style='font-size:40px;color:white'></i>
